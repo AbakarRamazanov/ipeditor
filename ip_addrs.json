@@ -1,0 +1,17 @@
+[
+  {
+    "ip" : "192.168.3.62",
+    "gateway" : "24",
+    "turn_on" : false
+  },
+  {
+    "ip" : "192.168.4.62",
+    "gateway" : "24",
+    "turn_on" : false
+  },
+  {
+    "ip" : "192.168.5.62",
+    "gateway" : "24",
+    "turn_on" : false
+  }
+]
